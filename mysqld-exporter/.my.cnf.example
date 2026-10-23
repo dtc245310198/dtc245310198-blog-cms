@@ -1,0 +1,5 @@
+[client]
+user=exporter
+password=DOI_GIA_TRI_NAY
+host=db
+port=3306

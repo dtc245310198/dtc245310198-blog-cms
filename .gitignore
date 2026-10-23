@@ -2,3 +2,4 @@
 nginx/certs/*.key
 nginx/certs/*.crt
 screenshots/
+mysqld-exporter/.my.cnf
